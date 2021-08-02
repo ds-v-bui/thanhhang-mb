@@ -1200,7 +1200,7 @@ Video POpup Stard
 ------------------------------------------------------------------ */
 @media(max-width:991px) {
     .navbar-toggler {
-        background-color: var(--dark-to-main-color);
+        background-color: var(--main-color);
         box-shadow: var(--shadaw-black-300);
         height: 34px;
         width: 44px;
@@ -1210,7 +1210,7 @@ Video POpup Stard
     }
 
     .navbar-nav {
-        background-color: var(--dark-to-main-color);
+        background-color: var(--main-color);
         box-shadow: var(--shadaw-black-300);
     }
 
